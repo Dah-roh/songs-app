@@ -1,7 +1,8 @@
 import React from 'react';
-function App() {
+const App = () => {
   return (
-    <div className="App">Songs App
+    <div className="App">
+      Songs App
     </div>
   );
 }
